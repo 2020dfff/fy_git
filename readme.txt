@@ -1,1 +1,2 @@
-scnb
+fynb
+Creating a new branch is quick.
